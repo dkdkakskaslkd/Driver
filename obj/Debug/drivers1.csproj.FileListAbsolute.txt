@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\drivers1\obj\Debug\drivers1.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\drivers1\obj\Debug\drivers1.Authorization.resources
+C:\Users\ADMIN\source\repos\drivers1\obj\Debug\drivers1.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\drivers1\obj\Debug\drivers1.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\drivers1\bin\Debug\base1.mdf
+C:\Users\ADMIN\source\repos\drivers1\bin\Debug\base1_log.ldf
+C:\Users\ADMIN\source\repos\drivers1\bin\Debug\drivers1.exe.config
+C:\Users\ADMIN\source\repos\drivers1\bin\Debug\drivers1.exe
+C:\Users\ADMIN\source\repos\drivers1\bin\Debug\drivers1.pdb
+C:\Users\ADMIN\source\repos\drivers1\obj\Debug\drivers1.exe
+C:\Users\ADMIN\source\repos\drivers1\obj\Debug\drivers1.pdb
+C:\Users\ADMIN\source\repos\drivers1\obj\Debug\drivers1.Driver.resources
